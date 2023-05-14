@@ -1,0 +1,1 @@
+Linux version 4.18.0-348.2.1.el8_5.aarch64+debug (mockbuild@ord1-prod-a64build004.svc.aws.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-4) (GCC)) #1 SMP Mon Nov 15 15:34:01 UTC 2021

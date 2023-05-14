@@ -1,0 +1,1 @@
+K.5.14.0-70.30.1.el9.s390x+debug (mockbuild@pb-1bcd41d0-832f-4533-990a-a24633c03469-b-s390x) #1 SMP Wed Nov 2 16:04:10 UTC 2022

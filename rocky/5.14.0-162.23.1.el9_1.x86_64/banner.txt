@@ -1,0 +1,2 @@
+5.14.0-162.23.1.el9_1.x86_64+debug (mockbuild@dal1-prod-builder001.bld.equ.rockylinux.org) #1 SMP PREEMPT_DYNAMIC Tue Apr 11 18:52:59 UTC 2023
+5.14.0-162.23.1.el9_1.x86_64+debug (mockbuild@dal1-prod-builder001.bld.equ.rockylinux.org) (gcc (GCC) 11.3.1 20220421 (Red Hat 11.3.1-2), GNU ld version 2.35.2-24.el9) #1 SMP PREEMPT_DYNAMIC Tue Apr 11 18:52:59 UTC 2023
