@@ -1,0 +1,1 @@
+Linux version 5.14.0-70.30.1.el9.aarch64+debug (mockbuild@pb-be11ad0f-fe14-41d2-898f-0d022a96746b-b-aarch64) (gcc (GCC) 11.2.1 20220127 (Red Hat 11.2.1-9), GNU ld version 2.35.2-17.el9.0.2) #1 SMP Wed Nov 2 16:02:06 UTC 2022

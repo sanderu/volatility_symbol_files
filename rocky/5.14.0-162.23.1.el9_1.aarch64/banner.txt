@@ -1,0 +1,1 @@
+Linux version 5.14.0-162.23.1.el9_1.aarch64+debug (mockbuild@pb-59a14243-73a0-4a83-a2a7-28e344c4dd0c-b-aarch64) (gcc (GCC) 11.3.1 20220421 (Red Hat 11.3.1-2), GNU ld version 2.35.2-24.el9) #1 SMP PREEMPT_DYNAMIC Tue Apr 11 15:13:24 UTC 2023

@@ -1,0 +1,2 @@
+%s version %s (mockbuild@pb-b37625d7-6757-4d91-be4a-6d488f48861e-b-ppc64le) (gcc (GCC) 11.2.1 20220127 (Red Hat 11.2.1-9), GNU ld version 2.35.2-17.el9.0.2) %s
+Linux version 5.14.0-70.30.1.el9.ppc64le+debug (mockbuild@pb-b37625d7-6757-4d91-be4a-6d488f48861e-b-ppc64le) (gcc (GCC) 11.2.1 20220127 (Red Hat 11.2.1-9), GNU ld version 2.35.2-17.el9.0.2) #1 SMP Wed Nov 2 16:07:29 UTC 2022

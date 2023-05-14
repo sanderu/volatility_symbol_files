@@ -1,0 +1,1 @@
+4.18.0-425.13.1.el8_7.x86_64+debug (mockbuild@dal1-prod-builder001.bld.equ.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-16) (GCC)) #1 SMP Tue Feb 21 19:06:52 UTC 2023

@@ -1,0 +1,2 @@
+5.14.0-70.30.1.el9_0.x86_64+debug (mockbuild@dal1-prod-builder001.bld.equ.rockylinux.org) #1 SMP PREEMPT Thu Nov 3 20:12:53 UTC 2022
+5.14.0-70.30.1.el9_0.x86_64+debug (mockbuild@dal1-prod-builder001.bld.equ.rockylinux.org) (gcc (GCC) 11.2.1 20220127 (Red Hat 11.2.1-9), GNU ld version 2.35.2-17.el9.0.2) #1 SMP PREEMPT Thu Nov 3 20:12:53 UTC 2022
