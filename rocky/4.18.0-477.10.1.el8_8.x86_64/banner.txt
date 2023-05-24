@@ -1,0 +1,2 @@
+4.18.0-477.10.1.el8_8.x86_64+debug (mockbuild@iad1-prod-build001.bld.equ.rockylinux.org) #1 SMP Tue May 16 11:23:28 UTC 2023
+4.18.0-477.10.1.el8_8.x86_64+debug (mockbuild@iad1-prod-build001.bld.equ.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-18) (GCC)) #1 SMP Tue May 16 11:23:28 UTC 2023
